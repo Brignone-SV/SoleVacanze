@@ -78,8 +78,8 @@ p {
 }
 
 .col-servizio {
-  margin-top: 60px;
-  margin-bottom: 100px;
+  margin-top: 50px;
+  margin-bottom: 90px;
   }
 
 .icon-block {
@@ -132,6 +132,7 @@ p {
 }
 
 .ospita-subtitle {
+  font-family: 'Raleway', sans-serif;
   font-size: 1.2em;
   margin-top: 5%;
   line-height: 3em;
@@ -144,6 +145,7 @@ p {
 footer.page-footer {
   margin: 0
   background-color: #26a69a;
+  font-family: 'Raleway', sans-serif;
 }
 
 .footer-copyright {
