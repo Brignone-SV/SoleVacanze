@@ -32,7 +32,7 @@ p {
 }
 
 .parallax-container {
-  min-height: 480px;
+  min-height: 530px;
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
@@ -44,13 +44,13 @@ p {
 }
 
 .header {
-  margin-top: 12%;
+  margin-top: 6%;
   font-family: 'Raleway', sans-serif;
   font-size: 40px;
 }
 
 .header-subtitle {
-  margin-top: 5%;
+  margin-top: 3%;
   font-family: 'Raleway', sans-serif;
   font-size: 1.5em;
 }
@@ -112,12 +112,13 @@ p {
 
 .registrazione-header {
   height: 100px;
+  margin-top: 5%
 }
 
 .registrazione-subtitle {
   font-size: 1.5em;
   font-family: 'Raleway', sans-serif;
-  margin-top: 10%;
+  margin-top: 5%;
 }
 
 .btn-registrazione {
