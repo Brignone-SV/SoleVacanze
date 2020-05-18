@@ -32,7 +32,7 @@ p {
 }
 
 .parallax-container {
-  min-height: 380px;
+  min-height: 480px;
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
@@ -44,7 +44,7 @@ p {
 }
 
 .header {
-  margin-top: 5%;
+  margin-top: 12%;
   font-family: 'Raleway', sans-serif;
   font-size: 40px;
 }
@@ -74,11 +74,10 @@ p {
   .nav-wrapper {
     padding: 0 10px;
   }
-
 }
 
 .col-servizio {
-  margin-top: 50px;
+  margin-top: 30px;
   margin-bottom: 50px;
   }
 
@@ -111,10 +110,14 @@ p {
   margin-top: 50px;
 }
 
+.registrazione-header {
+  height: 100px;
+}
+
 .registrazione-subtitle {
   font-size: 1.5em;
   font-family: 'Raleway', sans-serif;
-  margin-top: 3%;
+  margin-top: 10%;
 }
 
 .btn-registrazione {
@@ -143,7 +146,7 @@ p {
 }
 
 footer.page-footer {
-  margin: 0
+  margin: 0;
   background-color: #26a69a;
   font-family: 'Raleway', sans-serif;
 }
