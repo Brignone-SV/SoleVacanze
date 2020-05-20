@@ -12,6 +12,7 @@ body {
 
 nav ul a,
 nav .brand-logo {
+  font-family: 'Raleway', sans-serif;
   color: black;
 }
 
@@ -111,14 +112,8 @@ p {
 }
 
 .registrazione-header {
-  height: 100px;
-  margin-top: 5%
-}
-
-.registrazione-subtitle {
-  font-size: 1.5em;
-  font-family: 'Raleway', sans-serif;
-  margin-top: 5%;
+  height: 40px;
+  margin-top: 2%
 }
 
 .btn-registrazione {
@@ -135,17 +130,13 @@ p {
   margin-top: 30px;
 }
 
-.ospita-subtitle {
+.chisiamo-subtitle {
   font-family: 'Raleway', sans-serif;
-  font-size: 1.2em;
+  font-size: 0.5em;
   margin-top: 3%;
-  line-height: 3em;
+  line-height: 1.2em;
 }
  
-.btn-registrazione {
-  width: 100%;
-}
-
 footer.page-footer {
   margin: 0;
   background-color: #26a69a;
